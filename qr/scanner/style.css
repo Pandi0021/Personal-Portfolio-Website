@@ -1,0 +1,10 @@
+body {
+  background-image: linear-gradient(90deg, #0A2A1B,#071907);
+  color:white;
+}
+
+
+.qr-code {
+  max-width: 200px;
+  margin: 10px;
+}
